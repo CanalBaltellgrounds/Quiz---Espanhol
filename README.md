@@ -1,7 +1,7 @@
 # Quiz-Espanhol
 Aplicativo Quiz Espanhol
 
-![image](https://github.com/user-attachments/assets/9fb9cdc7-9f63-4127-9692-ee050506f501)
+![image](C:\Users\Kauê\Downloads\Apk\Apk.PNG)
 
 
 ## Tecnologias Utilizadas
