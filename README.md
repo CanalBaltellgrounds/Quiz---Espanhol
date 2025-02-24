@@ -1,7 +1,7 @@
 # Quiz-Espanhol
 Aplicativo Quiz Espanhol
 
-![image](C:\Users\Kauê\Downloads\Apk\Apk.PNG)
+![image]()
 
 
 ## Tecnologias Utilizadas
